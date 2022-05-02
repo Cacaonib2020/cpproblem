@@ -11,7 +11,7 @@
 入力は以下の形式で標準入力から与えられる．
 
 <pre>
-<span style="font-size: 15%"><var>N</var>
+<span style="font-size: 150%"><var>N</var>
 </pre>
 ## 出力
 N+7,N-7,N×7,N÷7を改行区切りで出力してください。
