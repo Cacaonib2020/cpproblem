@@ -11,7 +11,7 @@
 "Hello World !"出力せよ．
 
 ***
-## 出力例 1
+## 出力例 
 ```
 Hello World !
 ```
