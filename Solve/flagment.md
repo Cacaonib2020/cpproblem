@@ -47,3 +47,9 @@ abcdefghij
 ```
 この文字列にはa,b,c,d,e,f,g,h,i,jの10種類が使われています。
 ***
+
+<details>
+<summary>ヒント</summary>
+
+Ctrlを押しながらCキー(Ctrl+C)で選択範囲をクリップボードにコピーでき、Ctrl+Vでカーソル位置に貼り付けます。
+</details>
