@@ -9,7 +9,7 @@
 * <img src="https://latex.codecogs.com/svg.image?\sum_{k=1}^{n}k" />
 
 ## 制約
-* 1 < *N* < <img src="https://latex.codecogs.com/svg.image?\10^{5}" />
+* 1 ≦ *N* ≦ <img src="https://latex.codecogs.com/svg.image?\10^{5}" />
 * *N*は整数
 ***
 ## 入力
