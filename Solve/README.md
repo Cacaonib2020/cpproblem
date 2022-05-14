@@ -5,3 +5,7 @@
  B - 標準入力、変数、整数型、四則演算、標準出力  
  C - int配列、ループ(for)、条件分岐(if)  
  D - for文
+ E - int配列
+ F - 文字
+ G - char文字列
+ H - string文字列
