@@ -23,9 +23,9 @@
 
 <pre>
 <span style="font-size: 150%">N
-N<sub>0</sub> N<sub>1</sub> N<sub>2</sub>・・・N<sub>N-1</sub>
+A<sub>0</sub> A<sub>1</sub> A<sub>2</sub>・・・A<sub>N-1</sub>
 Q
-Q<sub>0</sub> Q<sub>1</sub> Q<sub>2</sub>・・・Q<sub>Q-1</sub>
+B<sub>0</sub> B<sub>1</sub> B<sub>2</sub>・・・B<sub>Q-1</sub>
 </pre>
 ## 出力
 カカオくんの点数を出力してください。
