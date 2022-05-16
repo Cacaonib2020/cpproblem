@@ -27,8 +27,8 @@
 入力は以下の形式で標準入力から与えられる．
 
 <pre>
-<span style="font-size: 200%"><var>N</var>
-<var>C</var>
+<span style="font-size: 200%"><var>C</var>
+<var>N</var>
 </pre>
 ## 出力
 Cを復号した結果を出力してください。
