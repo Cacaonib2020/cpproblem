@@ -64,3 +64,9 @@ vkrxogghfoduhwkhfdxvhvzklfklpshowkhpwrwkhvhsdudwlrq
 shoulddeclarethecauseswhichimpelthemtotheseparation
 ```
 ***
+
+<details>
+<summary>ヒント</summary>
+
+char型には0~127までしか代入できません。従って、'Z'(122)+10=132でオーバーフローするため文字化けになります。
+</details>
