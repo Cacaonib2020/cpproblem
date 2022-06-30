@@ -14,7 +14,8 @@
 10円玉がC<sub>10</sub>枚,
 5円玉がC<sub>5</sub>枚,
 1円玉がC<sub>1</sub>枚出るとして  
-C<sub>500</sub>,C<sub>100</sub>,C<sub>50</sub>,C<sub>10</sub>,C<sub>5</sub>,C<sub>1</sub>を改行区切りで出力してください。
+C<sub>500</sub>,C<sub>100</sub>,C<sub>50</sub>,C<sub>10</sub>,C<sub>5</sub>,C<sub>1</sub>を改行区切りで出力してください。  
+ただし、C<sub>500</sub>+C<sub>100</sub>+C<sub>50</sub>+C<sub>10</sub>+C<sub>5</sub>+C<sub>1</sub>が最小、つまり、出てくる枚数が最も少なくなるような方法を正解とします。
 
 
 ## 制約
