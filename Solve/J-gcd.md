@@ -1,4 +1,4 @@
-# F - What's GCD
+# J - What's GCD
 
 ## 問題文
 
