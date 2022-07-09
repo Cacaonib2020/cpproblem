@@ -1,4 +1,4 @@
-# F - What's最大公約数
+# J - What's GCD
 
 ## 問題文
 
