@@ -8,5 +8,6 @@
  E - int配列  
  F - 文字  
  G - char文字列  
- H - string文字列  
  I - While文,貪欲法  
+ J - 実践問題  
+ K - 実践問題
