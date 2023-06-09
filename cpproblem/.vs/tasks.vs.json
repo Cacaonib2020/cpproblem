@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "タスク-Ansers",
+      "appliesTo": "Ansers/",
+      "type": "launch"
+    }
+  ]
+}
