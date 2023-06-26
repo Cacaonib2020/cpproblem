@@ -72,5 +72,5 @@ z
 <details>
 <summary>ヒント</summary>
 
-char型において、1増やすと1つ右の文字になります。
+char型では、値を1増やすと1つ右の文字になります。
 </details>
