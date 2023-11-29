@@ -30,7 +30,7 @@ Aを昇順に並べ替えて空白区切りで出力してください。
 
 <pre>
 <span style="font-size: 120%"><var>N</var>
-<span style="font-size: 120%">A<sub>1</sub>,A<sub>2</sub>,…,A<sub>N</sub>
+<span style="font-size: 120%">A<sub>1</sub> A<sub>2</sub> … A<sub>N</sub>
 </pre>
 ## 出力
 Aを昇順に並べ替えたもの空白区切りで出力してください。
